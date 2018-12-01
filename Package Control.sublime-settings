@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CommentBanner",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Gulp",
+		"HTML5",
+		"JavaScript Snippets",
+		"jQuery",
+		"LiveStyle",
+		"npm",
+		"Package Control",
+		"Package Syncing",
+		"PackageSync",
+		"SCSS",
+		"SCSS Snippets",
+		"SFTP",
+		"SideBarEnhancements",
+		"Text Pastry",
+		"Trimmer"
+	]
+}

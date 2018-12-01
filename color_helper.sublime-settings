@@ -1,0 +1,6 @@
+// Settings in here override those in "ColorHelper/color_helper.sublime-settings",
+
+{
+	"inline_preview_position": "right",
+	"graphic_size": "small"
+}

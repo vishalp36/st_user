@@ -1,0 +1,77 @@
+{
+    "last_local_data": {
+        "Color Highlighter\\themes\\Boxy Tomorrow.tmTheme": {
+            "dir": "Color Highlighter\\themes", 
+            "path": "C:\\Users\\Vishal\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Color Highlighter\\themes\\Boxy Tomorrow.tmTheme", 
+            "version": 1541850389.82
+        }, 
+        "Color Highlighter\\themes\\Monokai.tmTheme": {
+            "dir": "Color Highlighter\\themes", 
+            "path": "C:\\Users\\Vishal\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Color Highlighter\\themes\\Monokai.tmTheme", 
+            "version": 1479384076.46
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Vishal\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Package Control.sublime-settings", 
+            "version": 1543680989.6
+        }, 
+        "PackageSync.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Vishal\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\PackageSync.sublime-settings", 
+            "version": 1543680789.93
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Vishal\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings", 
+            "version": 1543680990.6
+        }, 
+        "bh_core.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Vishal\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\bh_core.sublime-settings", 
+            "version": 1502613870.98
+        }, 
+        "color_helper.sublime-settings": {
+            "dir": "", 
+            "path": "C:\\Users\\Vishal\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\color_helper.sublime-settings", 
+            "version": 1502613970.98
+        }
+    }, 
+    "last_remote_data": {
+        "Color Highlighter\\themes\\Boxy Tomorrow.tmTheme": {
+            "dir": "Color Highlighter\\themes", 
+            "path": "C:/Users/Vishal/Desktop/Sublime_backup\\Color Highlighter\\themes\\Boxy Tomorrow.tmTheme", 
+            "version": 1541850389.82
+        }, 
+        "Color Highlighter\\themes\\Monokai.tmTheme": {
+            "dir": "Color Highlighter\\themes", 
+            "path": "C:/Users/Vishal/Desktop/Sublime_backup\\Color Highlighter\\themes\\Monokai.tmTheme", 
+            "version": 1479384076.46
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "C:/Users/Vishal/Desktop/Sublime_backup\\Package Control.sublime-settings", 
+            "version": 1543680989.6
+        }, 
+        "PackageSync.sublime-settings": {
+            "dir": "", 
+            "path": "C:/Users/Vishal/Desktop/Sublime_backup\\PackageSync.sublime-settings", 
+            "version": 1543680789.93
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "C:/Users/Vishal/Desktop/Sublime_backup\\Preferences.sublime-settings", 
+            "version": 1543680990.6
+        }, 
+        "bh_core.sublime-settings": {
+            "dir": "", 
+            "path": "C:/Users/Vishal/Desktop/Sublime_backup\\bh_core.sublime-settings", 
+            "version": 1502613870.98
+        }, 
+        "color_helper.sublime-settings": {
+            "dir": "", 
+            "path": "C:/Users/Vishal/Desktop/Sublime_backup\\color_helper.sublime-settings", 
+            "version": 1502613970.98
+        }
+    }, 
+    "remove_packages": []
+}
